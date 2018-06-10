@@ -1,2 +1,0 @@
-# gettingStartedMKH
-Created with CodeSandbox
